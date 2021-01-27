@@ -1,0 +1,189 @@
+body {
+    background-color: #696e80;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 41px;
+    display: flex;
+    align-items: flex-end;
+
+    position: absolute;
+    width: 335px;
+    height: 53px;
+    left: 37px;
+    top: 364px;
+
+    color: #FBFCFF;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.profilePhoto {
+    position: absolute;
+    width: 310px;
+    height: 311px;
+    left: 40px;
+    top: 40px;
+
+    border: 2px solid #383D4E;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.jobTitle {
+    position: absolute;
+    width: 325px;
+    height: 34px;
+    left: 36px;
+    top: 422px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: flex-end;
+
+    color: #000000;
+}
+.bio {
+    position: absolute;
+    width: 322px;
+    height: 166px;
+    left: 38px;
+    top: 496px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.socials {
+    display: inline-block;
+    position: absolute;
+    width: 119px;
+    height: 53px;
+    left: 36px;
+    top: 720px;
+}
+.nav {
+    position: absolute;
+    width: 213px;
+    height: 160px;
+    left: 36px;
+    top: 1442px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: flex-end;
+
+    color: #FBFCFF;
+}
+.projectOne {
+    position: absolute;
+    width: 1010px;
+    height: 480px;
+    left: 394px;
+    top: 40px;
+
+    background: rgba(251, 252, 255, 0.8);
+    border: 2px solid #383D4E;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.gfsLogo{
+    position: absolute;
+    width: 171px;
+    height: 148px;
+    left: 113px;
+    top: 47px;
+}
+.gfsTitle {
+    position: absolute;
+    width: 294px;
+    height: 56px;
+    left: 100px;
+    top: 216px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+.gfsDesc {
+    position: absolute;
+    width: 334px;
+    height: 161px;
+    left: 32px;
+    top: 254px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+.gfsMock {
+    position: absolute;
+    width: 606px;
+    height: 385px;
+    left: 390px;
+    top: 47px;  
+}
+.projectTwo {
+    position: absolute;
+    width: 1010px;
+    height: 480px;
+    left: 394px;
+    top: 579px;
+    overflow-y: scroll;
+
+    background: rgba(179, 186, 213, 0.8);
+    border: 2px solid #383D4E;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.projectThree {
+    position: absolute;
+    width: 1010px;
+    height: 480px;
+    left: 394px;
+    top: 1118px;
+
+    background: #6A83CC;
+    border: 2px solid #383D4E;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.logo {
+    position: absolute;
+    width: 388.53px;
+    height: 374px;
+    left: 526px;
+    top: 1559px;
+}
